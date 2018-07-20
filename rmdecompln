@@ -1,0 +1,79 @@
+#!/bin/csh
+#
+# rmdecompln - removes a link to a decompressed copy of a compressed file
+#
+#  Herbert J. Bernstein, Bernstein+Sons, 24 February 1997
+#  yaya@bernstein-plus-sons.com
+#
+#  Revised, 3 Nov 97 to use .DECOMP directory
+#  H. J. Bernstein
+#
+#  Revised, 19 Jun 98 to avoid broken csh foreach in Linux
+#  H. J. Bernstein
+#
+# SYNOPSIS
+#
+# rmdecompln file [file ...]
+#
+# This script accepts one argument, the name of the uncompressed file
+# to remove, or the compressed file, or the .uZ file.  The compressed
+# file need not exist.  The following files are removed:
+#    expand/mkdnnnnnn   pointed to by
+#    file.uZ            and
+#    file
+#
+# as created by mkdecompln
+#
+# The name of the temporary file is stored in a file name.uZ
+# for use in cleaning up old versions
+#
+# The following "goto" loop compensates for some strange behavior 
+# in Linux csh.  Do not rewrite as a "foreach" or "while"
+#
+#
+unset nonomatch
+set arglist = ( $* )
+#
+reloop:
+if ( $#arglist > 0 ) then
+  set file = $argv[1]
+  shift
+   set arglist = ( $* )
+  if ( $file:e == 'Z' || $file:e == 'uZ' ) then
+    set xfile = $file:r
+  else
+    set xfile = $file
+  endif
+
+  if ( $file:e == 'uZ' ) then
+    set oldtmp=`cat $file`
+    echo $oldtmp
+    if ($#oldtmp == 2 ) then
+      set xfile = $oldtmp[2]
+    endif
+  endif
+
+  if ( -e ${xfile}.uZ ) then
+    set oldtmp=`cat ${xfile}.uZ`
+    set oldtmp=$oldtmp[1]
+    if ( -e $oldtmp ) then
+      /bin/rm $oldtmp
+    endif
+      /bin/rm -f ${xfile}.uZ
+  endif
+
+  if ( $file:e == 'uZ' && -e $file ) then
+    set oldtmp=`cat $file`
+    set oldtmp=$oldtmp[1]
+    if ( -e $oldtmp ) then
+      /bin/rm $oldtmp
+    endif
+    /bin/rm -f $file
+  endif
+
+  /bin/rm -f ${xfile}
+
+else
+  exit(0)
+endif
+goto reloop

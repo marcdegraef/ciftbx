@@ -1,0 +1,33 @@
+   File Name		Archive #	Description
+-----------------------------------------------------------
+ ciftbx.src                 1	directory for ciftbx sources
+ dictionaries               1	directory for dictionaries
+ mkdecompln                 1	decompression script used by Makefile
+ rmdecompln                 1	cleanup script used by Makefile
+ COPYING                    1	GPL (GNU General Public License)
+ NOTICE                     1	Notices
+ ciftbx.src/README.ciftbx   1	instructions on how to build ciftbx
+ ciftbx.src/MANIFEST        1	a list of files in the kit
+ ciftbx.src/Makefile        1	a preliminary control file for make
+ ciftbx.src/ciftbx.cmf      1	CIFtbx function definitions for applications
+ ciftbx.src/ciftbx.cmn      1	CIFtbx common for inclusion into applications
+ ciftbx.src/ciftbx.cmv      1	CIFtbx common variables only
+ ciftbx.src/ciftbx.f        1	CIFtbx fortran source
+ ciftbx.src/ciftbx.sys      1	CIFtbx common for inclusion into ciftbx.f
+ ciftbx.src/clearfp.f       1	dummy routine holding place for clearfp_sun.f
+ ciftbx.src/clearfp_sun.f   1	SUN routine to clear floating point exceptions
+ ciftbx.src/hash_funcs.f    1	hash-table control routines used by CIFtbx
+ ciftbx.src/mtest.out       1	CIF output by the tbx_exm.f run
+ ciftbx.src/mtest.prt       1	print file output from tbx_exm.f run
+ ciftbx.src/m3test.out      1	CIF output by the tbx_ex3.f run
+ ciftbx.src/m3test.prt      1	print file output from tbx_ex3.f run
+ ciftbx.src/mtest.xml       1	XML output by the tbx_exm.f run
+ ciftbx.src/tbx_ex.f        1	example application used against cif_core.dic
+ ciftbx.src/tbx_exm.f       1	example application used against cif_mm.dic
+ ciftbx.src/tbx_ex3.f       1	example application used against cif_expanded.dic
+ ciftbx.src/test.cif        1	example CIF used by tbx_ex.f
+ ciftbx.src/test.out        1	CIF output from tbx_ex.f run
+ ciftbx.src/test.prt        1	print file output from tbx_ex.f run
+ ciftbx.src/test.req        1	example request file used by tbx_ex.f
+ ciftbx.src/testrle.f       1	test program for RLE routines
+ ciftbx.src/testrle.prt     1	print file output from testrle run

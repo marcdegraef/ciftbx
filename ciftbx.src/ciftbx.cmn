@@ -1,0 +1,9 @@
+
+C
+C >>>>>> Common and Function declararations 'ciftbx.cmn'
+C
+C        These declarations must be included in ciftbx user
+C        applications.
+C
+      include  'ciftbx.cmv'
+      include  'ciftbx.cmf'

@@ -1,0 +1,178 @@
+C
+C >>>>>> Common declararations 'ciftbx.cmn' (variables)
+C
+C        These declarations must be included in ciftbx user
+C        applications.
+C
+C
+C        Parameters to control sizes
+C
+C                                 Maximum number of characters in
+C                                 data names
+         integer NUMCHAR
+         PARAMETER (NUMCHAR=75)
+C                                 Maximum number of characters in
+C                                 a line
+         integer MAXBUF
+         PARAMETER (MAXBUF=2048)
+C
+C                                 Alias use flag (true/false)
+         logical   alias_
+C                                 Alias output mapping flag (true/false)
+         logical   aliaso_
+C                                 Align loop active flag (true/false)
+         logical   align_
+C                                 Append next CIF to prior CIF (true/false)
+         logical   append_
+C                                 Clip first character of text on input (true/false)
+         logical   clipt_
+C                                 Found decimal point on numeric input (true/false)
+         logical   decp_
+C                                 Value validated
+         logical   valid_
+C                                 Folded text field (true/false)
+         logical   fold_
+C                                 Loop active flag (true/false)
+         logical   loop_
+C                                 Found leading zero on numeric input (true/false)
+         logical   lzero_
+C                                 GlobaL block active flag (true/false)
+         logical   glob_
+C                                 Global block output flag (true/false)
+         logical   globo_
+C                                 No blank string flag (true/false)
+         logical   nblank_
+C                                 No blank output string flag (true/false)
+         logical   nblanko_
+C                                 accept brackets
+         logical   rdbkt_
+C                                 accept braces
+         logical   rdbrc_
+C                                 accept parentheses
+         logical   rdprn_
+C                                 accept treble quotes
+         logical   rdtq_
+C                                 recognize closing quotes
+         logical   rdrcqt_
+C                                 accept colons as delimiters inside bracketed
+C                                 constructs
+         logical   rdcolon_
+C                                 Clip first character of text on output (true/false)
+         logical   pclipt_
+C                                 Force decimal point on output (true/false)
+         logical   pdecp_
+C                                 Force leading zero on output (true/false)
+         logical   plzero_
+C                                 Output tab expansion flag (true/false)
+         logical   ptabx_
+C                                 Save frame active flag (true/false)
+         logical   save_
+C                                 Save frame output flag (true/false)
+         logical   saveo_
+C                                 Set loop tabs flag (true/false)
+         logical   tabl_
+C                                 Input tab expansion flag (true/false)
+         logical   tabx_
+C                                 Text active flag (true/false)
+         logical   text_                                 
+C                                 Unfold long input lines (true/false)
+         logical   unfold_
+C                                 Support xml style output
+         logical   xmlout_
+C                                 Support long xml names
+         logical   xmlong_
+
+C                                 Depth of current list, array, tuple or table
+         integer   depth_
+C                                 Index (from 1) in the list, array, tuple or table
+         integer   index_
+C                                 Length of current data item in strg_
+         integer   long_
+C                                 Loop block number of current item
+         integer   list_
+C                                 Length of current filename in file_
+         integer   longf_
+C                                 Integer limit on esd's (9, 19, 29, etc.)
+         integer   esdlim_
+C                                 Integer actual esd digits in input
+         integer   esddig_
+C                                 User setable input line value
+         integer   line_
+C                                 Depth of current list, array, tuple or table
+         integer   pdepth_
+C                                 Integer target esd digits in output
+         integer   pesddig_
+C                                 Character position of delimiter
+         integer   posdelim_
+C                                 Character position on which to fold output
+         integer   pfold_
+C                                 Character position of data name
+         integer   posnam_
+C                                 Character position of data value
+         integer   posval_
+C                                 Character position of decimal point
+         integer   posdec_
+C                                 Character position of end of field
+         integer   posend_
+C                                 Character position of delimiter
+         integer   pposdelim_
+C                                 Character position of output data name
+         integer   pposnam_
+C                                 Character position of output data value
+         integer   pposval_
+C                                 Character position of output decimal point
+         integer   pposdec_
+C                                 Character position of end of output field
+         integer   pposend_
+C                                 Record number of last last line
+         integer   precn_
+C                                 Record number of first input line to use
+         integer   recbeg_
+C                                 Record number of last input line to use
+         integer   recend_
+C                                 Record number of last input line in file
+         integer   recn_
+
+C                                 Name of current data block
+         character bloc_*(NUMCHAR)
+C                                 Data category
+         character*(NUMCHAR) diccat_
+C                                 Data alias root name or dictionary name
+         character*(NUMCHAR) dicname_
+C                                 Data parent name or dictionary name
+         character*(NUMCHAR) dicpname_
+C                                 Data type (May be more precise than type_)
+         character*(NUMCHAR) dictype_
+C                                 Dictionary version
+         character*(NUMCHAR) dicver_
+C                                 File name of current CIF
+         character file_*(MAXBUF)
+C                                 Quoted output string flag
+         character pquote_*3
+C                                 Quoted input string flag
+         character quote_*3
+C                                 Character image of current data item
+         character strg_*(MAXBUF)
+C                                 Input CIF tag name
+         character*(NUMCHAR) tagname_
+C                                 Version and date of CIFtbx
+         character tbxver_*32
+C                                 Data item type
+         character type_*4
+C                                 List, array, tuple or table item type
+         character ttype_*4
+C
+         common/tbuc/ strg_,bloc_,file_,type_,ttype_,dictype_,diccat_,
+     *     dicname_,dicpname_,dicver_,tagname_,quote_,pquote_,tbxver_
+C
+         common/tbui/ depth_,index_,list_,long_,longf_,line_,esdlim_,
+     *     recn_,precn_,posnam_,posval_,posdec_,posend_,
+     *     pposnam_,pposval_,pposdec_,pposend_,
+     *     recbeg_,recend_,esddig_,pdepth_,pesddig_,pfold_,
+     *     posdelim_,pposdelim_
+C
+         common/tbul/ loop_,text_,align_,save_,saveo_,aliaso_,alias_,
+     *     tabl_,tabx_,ptabx_,nblank_,nblanko_,glob_,globo_,decp_,
+     *     pdecp_,lzero_,plzero_,append_,xmlout_,xmlong_,unfold_,
+     *     fold_,valid_,clipt_,pclipt_,rdbrc_,rdbkt_,rdprn_,rdtq_,
+     *     rdrcqt_, rdcolon_

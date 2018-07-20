@@ -1,0 +1,75 @@
+#!/bin/csh
+#
+# mkdecompln - makes a link to a decompressed copy of a compressed file
+#
+#  Herbert J. Bernstein, Bernstein+Sons, 24 February 1997
+#  yaya@bernstein-plus-sons.com
+#
+#  Revised 1 November 1997 for .DECOMP
+#  H. J. Bernstein
+#
+# SYNOPSIS
+#
+# mkdecompln file [expdir]
+#
+# This script accepts one or two arguments, the name of the uncompressed file
+# to create and, optionally, the name of a directory to hold the expanded 
+# file.  The compressed file must exist, with a .Z extension.
+# The uncompressed file is actually created in /tmp, or in the expansion
+# directory specified by the second argument.  The path to the expanded file
+# is expdir/mkdnnnnn, where nnnnn is the job number.
+#
+# The path name of the expanded file is stored in a file of the name 
+#         .DECOMP/file.uZ
+# if the directory .DECOMP is present, otherwise in a file of the name
+#          file.uZ
+# for use in cleaning up old versions.
+#
+# A symbolic link to expdir/mkdnnnnn is created in file.  Any prior contents
+# of file are lost.
+#
+# If the expansion directory is ".", the expansion is done directly to the
+# target file without a link, but file.uZ is still created.
+#
+set EXPAND = /tmp
+set arg2 = ( $2 )
+if ( ${#arg2} == 1 ) then
+  if ( -d $2 ) then
+    set EXPAND = $2
+  endif
+endif 
+set CLEANUP = .
+if ( -d .DECOMP ) then
+  set CLEANUP = .DECOMP
+endif
+if ( -e $1.Z ) then
+  if ( -e $1.uZ) then
+    set oldtmp=`cat $1.uZ`
+    set oldtmp=$oldtmp[1]
+    if ( -e $oldtmp) then
+      /bin/rm $oldtmp
+    endif
+    /bin/rm -f $1.uZ
+  endif
+  if ( -e .DECOMP/$1.uZ) then
+    set oldtmp=`cat .DECOMP/$1.uZ`
+    set oldtmp=$oldtmp[1]
+    if ( -e $oldtmp) then
+      /bin/rm $oldtmp
+    endif
+    /bin/rm -f .DECOMP/$1.uZ
+  endif
+  /bin/rm -f $1
+  if ( ${EXPAND} == "." ) then
+    uncompress < $1.Z > `pwd`/$1
+    /bin/echo `pwd`/$1  `pwd`/$1 > ${CLEANUP}/$1.uZ
+  else
+    uncompress < $1.Z > ${EXPAND}/mkd$$
+    ln -s ${EXPAND}/mkd$$ $1
+    /bin/echo ${EXPAND}/mkd$$  `pwd`/$1 > ${CLEANUP}/$1.uZ
+  endif
+  exit(0)
+else
+  echo "Failed to find $1.Z"
+  exit(1)
+endif

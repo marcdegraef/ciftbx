@@ -1,0 +1,1178 @@
+ ciftbx warning: cif_expanded.dic save_CIF_DIC line:     24
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CIF_CORE line:     41
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CORE_CRYSTAL line:     53
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL line:     66
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_ANGLE line:    224
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_LENGTH line:    288
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_VECTOR line:    331
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_MEASUREMENT line:    392
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_MEASUREMENT_REFLN line:    533
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_CELL_MEASUREMENT_REFLN line:    522
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_RECIPROCAL line:    638
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_RECIPROCAL_ANGLE line:    742
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_RECIPROCAL_LENGTH line:    806
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CELL_RECIPROCAL_VECTOR line:    870
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CHEMICAL line:    937
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CHEMICAL_CONN_ATOM line:   1146
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_CHEMICAL_CONN_ATOM line:   1126
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_chemical_conn_atom.number line:   1253
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_CHEMICAL_CONN_BOND line:   1297
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_CHEMICAL_CONN_BOND line:   1284
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CHEMICAL_FORMULA line:   1400
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_chemical_formula.analytical line:   1453
+  Item type formula not recognized
+ ciftbx warning: cif_expanded.dic save_chemical_formula.iupac line:   1470
+  Item type formula not recognized
+ ciftbx warning: cif_expanded.dic save_chemical_formula.moiety line:   1493
+  Item type formula not recognized
+ ciftbx warning: cif_expanded.dic save_chemical_formula.structural line:   1525
+  Item type formula not recognized
+ ciftbx warning: cif_expanded.dic save_chemical_formula.sum line:   1543
+  Item type formula not recognized
+ ciftbx warning: cif_expanded.dic save_EXPTL line:   1607
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_EXPTL line:   1595
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_exptl.crystals_number line:   1625
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_EXPTL_ABSORPT line:   1656
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_EXPTL_CRYSTAL line:   1767
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_EXPTL_CRYSTAL_FACE line:   2062
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_EXPTL_CRYSTAL_FACE line:   2051
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_EXPTL_CRYSTAL_APPEARANCE line:   2267
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_SYMMETRY line:   2379
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_symmetry.Int_Tables_number line:   2415
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_symmetry.multiplicity line:   2430
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_SYMMETRY_EQUIV line:   2515
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_SYMMETRY_EQUIV line:   2504
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_symmetry_equiv.pos_as_xyz line:   2539
+  Item type formula not recognized
+ ciftbx warning: cif_expanded.dic save_symmetry_equiv.pos_site_id line:   2560
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_CORE_DIFFRACTION line:   2682
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN line:   2695
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_ATTENUATOR line:   2805
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_DIFFRN_ATTENUATOR line:   2794
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_DETECTOR line:   2875
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_MEASUREMENT line:   2973
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_ORIENT line:   3094
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_ORIENT_MATRIX line:   3107
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_ORIENT_REFLN line:   3299
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_DIFFRN_ORIENT_REFLN line:   3287
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_RADIATION line:   3478
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_RADIATION_WAVELENGTH line:   3673
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_DIFFRN_RADIATION_WAVELENGTH line:   3660
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_REFLN line:   3760
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_DIFFRN_REFLN line:   3748
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_REFLNS line:   4307
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_REFLNS_TRANSF_MATRIX line:   4552
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_REFLNS_CLASS line:   4745
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_DIFFRN_REFLNS_CLASS line:   4733
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_SCALE_GROUP line:   4896
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_DIFFRN_SCALE_GROUP line:   4884
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_SOURCE line:   4953
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_STANDARDS line:   5213
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DIFFRN_STANDARD_REFLN line:   5324
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_DIFFRN_STANDARD_REFLN line:   5311
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_REFLN line:   5439
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_REFLN line:   5427
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_refln.F_complex line:   5626
+  Item type complex not recognized
+ ciftbx warning: cif_expanded.dic save_refln.symmetry_epsilon line:   6139
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_refln.symmetry_multiplicity line:   6156
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_REFLNS line:   6209
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_REFLNS_CLASS line:   6470
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_REFLNS_CLASS line:   6459
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_REFLNS_SCALE line:   6695
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_REFLNS_SCALE line:   6684
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_REFLNS_SHELL line:   6791
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_REFLNS_SHELL line:   6780
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CORE_STRUCTURE line:   7114
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_ATOM_SITE line:   7139
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_ATOM_SITE line:   7127
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_atom_site.calc_attached_atom line:   7267
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.chemical_conn_number line:   7377
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.label line:   7576
+  Duplicate data item _description.common
+ ciftbx warning: cif_expanded.dic save_atom_site.label line:   7546
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.label_component_0 line:   7581
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.label_component_1 line:   7607
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.label_component_2 line:   7633
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.label_component_3 line:   7659
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.label_component_4 line:   7685
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.label_component_5 line:   7711
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.label_component_6 line:   7737
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_atom_site.symmetry_multiplicity line:   7827
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_ATOM_SITE_ANISO line:   7969
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_ATOM_SITE_ANISO line:   7956
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_atom_site_aniso.label line:   7993
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_ATOM_SITES line:   8435
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_ATOM_SITES_CARTN_TRANSFORM line:   8522
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_ATOM_TYPE line:   8627
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_ATOM_TYPE line:   8615
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_atom_type.atomic_number line:   8729
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_atom_type.electron_count line:   8923
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_ATOM_TYPE_SCAT line:   9326
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_ATOM_TYPE_SCAT line:   9314
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_REFINE line:  10623
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_REFINE_DIFF line:  10650
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_REFINE_LS line:  10707
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_REFINE_LS_CLASS line:  11438
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_REFINE_LS_CLASS line:  11427
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_CORE_MODEL line:  11597
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_GEOM line:  11610
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_GEOM_ANGLE line:  11719
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_GEOM_ANGLE line:  11707
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_geom_angle.atom_site_label_1 line:  11784
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_angle.atom_site_label_2 line:  11818
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_angle.atom_site_label_3 line:  11852
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_angle.id line:  11900
+  Item type label,symop not recognized
+ ciftbx warning: cif_expanded.dic save_geom_angle.publ_flag line:  11928
+  Item type yesorno not recognized
+ ciftbx warning: cif_expanded.dic save_GEOM_BOND line:  12100
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_GEOM_BOND line:  12088
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_geom_bond.atom_site_label_1 line:  12150
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_bond.atom_site_label_2 line:  12184
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_bond.id line:  12248
+  Item type label,symop not recognized
+ ciftbx warning: cif_expanded.dic save_geom_bond.publ_flag line:  12274
+  Item type yesorno not recognized
+ ciftbx warning: cif_expanded.dic save_GEOM_CONTACT line:  12376
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_GEOM_CONTACT line:  12364
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_geom_contact.atom_site_label_1 line:  12439
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_contact.atom_site_label_2 line:  12473
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_contact.id line:  12537
+  Item type label,symop not recognized
+ ciftbx warning: cif_expanded.dic save_geom_contact.publ_flag line:  12563
+  Item type yesorno not recognized
+ ciftbx warning: cif_expanded.dic save_GEOM_HBOND line:  12665
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_GEOM_HBOND line:  12653
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_geom_hbond.atom_site_label_A line:  12727
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_hbond.atom_site_label_D line:  12761
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_hbond.atom_site_label_H line:  12795
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_hbond.id line:  12919
+  Item type label,symop not recognized
+ ciftbx warning: cif_expanded.dic save_geom_hbond.publ_flag line:  12947
+  Item type yesorno not recognized
+ ciftbx warning: cif_expanded.dic save_GEOM_TORSION line:  13086
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_GEOM_TORSION line:  13074
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_geom_torsion.atom_site_label_1 line:  13165
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_torsion.atom_site_label_2 line:  13199
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_torsion.atom_site_label_3 line:  13233
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_torsion.atom_site_label_4 line:  13267
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_geom_torsion.id line:  13315
+  Item type label,symop not recognized
+ ciftbx warning: cif_expanded.dic save_geom_torsion.publ_flag line:  13343
+  Item type yesorno not recognized
+ ciftbx warning: cif_expanded.dic save_MODEL_SITE line:  13534
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_MODEL_SITE line:  13522
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_model_site.id line:  13845
+  Item type label,symop not recognized
+ ciftbx warning: cif_expanded.dic save_model_site.index line:  13869
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_model_site.label line:  13883
+  Item type label not recognized
+ ciftbx warning: cif_expanded.dic save_model_site.mole_index line:  13905
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic save_model_site.type_symbol line:  13965
+  Item type element not recognized
+ ciftbx warning: cif_expanded.dic save_CORE_PUBLICATION line:  13987
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_DISPLAY_COLOUR line:  14011
+  Multiple DDL 1, 2 or m related key definitions 
+ ciftbx warning: cif_expanded.dic save_DISPLAY_COLOUR line:  14000
+  No name in the block matches the block name
+ ciftbx warning: cif_expanded.dic save_display_colour.RGB line:  14094
+  Item type index not recognized
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cif_dic
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cif_core
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name core_crystal
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_angle
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_length
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_vector
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_measurement
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_measurement_refln
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_reciprocal
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_reciprocal_angle
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_reciprocal_length
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name cell_reciprocal_vector
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name chemical
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name chemical_conn_atom
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name chemical_conn_bond
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name chemical_formula
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name exptl
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name exptl_absorpt
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name exptl_crystal
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name exptl_crystal_face
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name exptl_crystal_appearance
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name symmetry
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name symmetry_equiv
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name core_diffraction
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_attenuator
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_detector
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_measurement
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_orient
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_orient_matrix
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_orient_refln
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_radiation
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_radiation_wavelength
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_refln
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_reflns
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_reflns_transf_matrix
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_reflns_class
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_scale_group
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_source
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_standards
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name diffrn_standard_refln
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name refln
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name reflns
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name reflns_class
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name reflns_scale
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name reflns_shell
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name core_structure
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name atom_site
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name atom_site_aniso
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name atom_sites
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name atom_sites_cartn_transform
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name atom_type
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name atom_type_scat
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name refine
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name refine_diff
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name refine_ls
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name refine_ls_class
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name core_model
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name geom
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name geom_angle
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name geom_bond
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name geom_contact
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name geom_hbond
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name geom_torsion
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name model_site
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name core_publication
+ ciftbx warning: cif_expanded.dic data_  line:  14200
+  No type specified for name display_colour
+
+ Read data from CIF  test.cif                        
+
+ ciftbx warning: test.cif data_mumbo_jumbo line:      5
+  Data name _audit_creation_date not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:      5
+  No category defined for _audit_creation_date
+ ciftbx warning: test.cif data_mumbo_jumbo line:      6
+  Data name _audit_creation_method not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:      6
+  No category defined for _audit_creation_method
+ ciftbx warning: test.cif data_mumbo_jumbo line:      7
+  Data name _audit_update_record not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:      7
+  No category defined for _audit_update_record
+ ciftbx warning: test.cif data_mumbo_jumbo line:     12
+  Data name _dummy_test not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     12
+  No category defined for _dummy_test
+ ciftbx warning: test.cif data_mumbo_jumbo line:     14
+  Data name _chemical_name_systematic not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     14
+  No category defined for _chemical_name_systematic
+ ciftbx warning: test.cif data_mumbo_jumbo line:     16
+  Data name _chemical_formula_moiety not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     16
+  No category defined for _chemical_formula_moiety
+ ciftbx warning: test.cif data_mumbo_jumbo line:     17
+  Data name _chemical_formula_sum not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     17
+  No category defined for _chemical_formula_sum
+ ciftbx warning: test.cif data_mumbo_jumbo line:     18
+  Data name _chemical_formula_weight not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     18
+  No category defined for _chemical_formula_weight
+ ciftbx warning: test.cif data_mumbo_jumbo line:     19
+  Data name _chemical_melting_point not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     19
+  No category defined for _chemical_melting_point
+ ciftbx warning: test.cif data_mumbo_jumbo line:     22
+  Data name _cell_length_b not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     22
+  No category defined for _cell_length_b
+ ciftbx warning: test.cif data_mumbo_jumbo line:     23
+  Data name _cell_length_c not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     23
+  No category defined for _cell_length_c
+ ciftbx warning: test.cif data_mumbo_jumbo line:     24
+  Data name _cell_angle_alpha not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     24
+  No category defined for _cell_angle_alpha
+ ciftbx warning: test.cif data_mumbo_jumbo line:     25
+  Data name _cell_angle_beta not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     25
+  No category defined for _cell_angle_beta
+ ciftbx warning: test.cif data_mumbo_jumbo line:     26
+  Data name _cell_angle_gamma not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     26
+  No category defined for _cell_angle_gamma
+ ciftbx warning: test.cif data_mumbo_jumbo line:     27
+  Data name _cell_volume not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     27
+  No category defined for _cell_volume
+ ciftbx warning: test.cif data_mumbo_jumbo line:     28
+  Data name _cell_formula_units_z not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     28
+  No category defined for _cell_formula_units_z
+ ciftbx warning: test.cif data_mumbo_jumbo line:     29
+  Data name _cell_measurement_temperature not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     29
+  No category defined for _cell_measurement_temperature
+ ciftbx warning: test.cif data_mumbo_jumbo line:     30
+  Data name _cell_measurement_reflns_used not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     30
+  No category defined for _cell_measurement_reflns_used
+ ciftbx warning: test.cif data_mumbo_jumbo line:     31
+  Data name _cell_measurement_theta_min not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     31
+  No category defined for _cell_measurement_theta_min
+ ciftbx warning: test.cif data_mumbo_jumbo line:     32
+  Data name _cell_measurement_theta_max not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     32
+  No category defined for _cell_measurement_theta_max
+ ciftbx warning: test.cif data_mumbo_jumbo line:     34
+  Data name _symmetry_cell_setting not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     34
+  No category defined for _symmetry_cell_setting
+ ciftbx warning: test.cif data_mumbo_jumbo line:     35
+  Data name _symmetry_space_group_name_h-m not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     35
+  No category defined for _symmetry_space_group_name_h-m
+ ciftbx warning: test.cif data_mumbo_jumbo line:     36
+  Data name _symmetry_space_group_name_hall not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     36
+  No category defined for _symmetry_space_group_name_hall
+ ciftbx warning: test.cif data_mumbo_jumbo line:     39
+  Data name _atom_type_symbol not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     39
+  No category defined for _atom_type_symbol
+ ciftbx warning: test.cif data_mumbo_jumbo line:     40
+  Data name _atom_type_oxidation_number not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     40
+  No category defined for _atom_type_oxidation_number
+ ciftbx warning: test.cif data_mumbo_jumbo line:     41
+  Data name _atom_type_number_in_cell not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     41
+  No category defined for _atom_type_number_in_cell
+ ciftbx warning: test.cif data_mumbo_jumbo line:     42
+  Data name _atom_type_scat_dispersion_real not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     42
+  No category defined for _atom_type_scat_dispersion_real
+ ciftbx warning: test.cif data_mumbo_jumbo line:     43
+  Data name _atom_type_scat_dispersion_imag not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     43
+  No category defined for _atom_type_scat_dispersion_imag
+ ciftbx warning: test.cif data_mumbo_jumbo line:     44
+  Data name _atom_type_scat_source not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     44
+  No category defined for _atom_type_scat_source
+ ciftbx warning: test.cif data_mumbo_jumbo line:     52
+  Data name _atom_site_label not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     52
+  No category defined for _atom_site_label
+ ciftbx warning: test.cif data_mumbo_jumbo line:     53
+  Data name _atom_site_fract_x not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     53
+  No category defined for _atom_site_fract_x
+ ciftbx warning: test.cif data_mumbo_jumbo line:     54
+  Data name _atom_site_fract_y not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     54
+  No category defined for _atom_site_fract_y
+ ciftbx warning: test.cif data_mumbo_jumbo line:     55
+  Data name _atom_site_fract_z not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     55
+  No category defined for _atom_site_fract_z
+ ciftbx warning: test.cif data_mumbo_jumbo line:     56
+  Data name _atom_site_u_iso_or_equiv not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     56
+  No category defined for _atom_site_u_iso_or_equiv
+ ciftbx warning: test.cif data_mumbo_jumbo line:     57
+  Data name _atom_site_thermal_displace_type not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     57
+  No category defined for _atom_site_thermal_displace_type
+ ciftbx warning: test.cif data_mumbo_jumbo line:     58
+  Data name _atom_site_calc_flag not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     58
+  No category defined for _atom_site_calc_flag
+ ciftbx warning: test.cif data_mumbo_jumbo line:     59
+  Data name _atom_site_calc_attached_atom not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     59
+  No category defined for _atom_site_calc_attached_atom
+ ciftbx warning: test.cif data_mumbo_jumbo line:     60
+  Data name _atom_site_type_symbol not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     60
+  No category defined for _atom_site_type_symbol
+ ciftbx warning: test.cif data_mumbo_jumbo line:     66
+  Data name _atom_site_aniso_label not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     66
+  No category defined for _atom_site_aniso_label
+ ciftbx warning: test.cif data_mumbo_jumbo line:     67
+  Data name _atom_site_aniso_u_11 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     67
+  No category defined for _atom_site_aniso_u_11
+ ciftbx warning: test.cif data_mumbo_jumbo line:     68
+  Data name _atom_site_aniso_u_22 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     68
+  No category defined for _atom_site_aniso_u_22
+ ciftbx warning: test.cif data_mumbo_jumbo line:     69
+  Data name _atom_site_aniso_u_33 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     69
+  No category defined for _atom_site_aniso_u_33
+ ciftbx warning: test.cif data_mumbo_jumbo line:     70
+  Data name _atom_site_aniso_u_12 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     70
+  No category defined for _atom_site_aniso_u_12
+ ciftbx warning: test.cif data_mumbo_jumbo line:     71
+  Data name _atom_site_aniso_u_13 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     71
+  No category defined for _atom_site_aniso_u_13
+ ciftbx warning: test.cif data_mumbo_jumbo line:     72
+  Data name _atom_site_aniso_u_23 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     72
+  No category defined for _atom_site_aniso_u_23
+ ciftbx warning: test.cif data_mumbo_jumbo line:     73
+  Data name _atom_site_aniso_type_symbol not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     73
+  No category defined for _atom_site_aniso_type_symbol
+ ciftbx warning: test.cif data_mumbo_jumbo line:     77
+  Data name _blat1 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     77
+  No category defined for _blat1
+ ciftbx warning: test.cif data_mumbo_jumbo line:     77
+  Data name _blat2 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     77
+  No category defined for _blat2
+
+ Access items in data block  mumbo_jumbo                                                                
+
+ Cell dimension(s) missing!
+
+ Cell     0.0000   14.9560   19.7370
+          0.0000    0.0010    0.0030
+
+ Space group   P_2ac_2ab
+
+ Next data name in CIF is   _atom_type_symbol               
+
+ Audit record
+
+  91-04-09           text and data added by Tony Willis.                        
+  91-04-15           rec'd by co-editor with diagram as manuscript HL7.         
+  91-04-17           adjustments based on first referees report.                
+  91-04-18           adjustments based on second referee's report.              
+
+ Atom sites
+
+ s     0.2020  0.7980  0.9167  0.0300  0.0000  0.0000  0.0000  0.0030
+ o     0.4980  0.4980  0.6667  0.0252  0.0000  0.0000  0.0000  0.0030
+ c1    0.4880  0.0960  0.0380  0.0317  0.0000  0.0000  0.0000  0.0030
+ ciftbx warning: test.cif data_publication line:     84
+  Data name _publ_author_name not in dictionary!
+ ciftbx warning: test.cif data_publication line:     84
+  No category defined for _publ_author_name
+ ciftbx warning: test.cif data_publication line:     85
+  Data name _publ_author_address not in dictionary!
+ ciftbx warning: test.cif data_publication line:     85
+  No category defined for _publ_author_address
+
+
+ Access items in data block  publication                                                                
+
+
+ Author list
+
+ Furber, Mark
+ Research School of Chemistry                      
+ Australian National University                    
+ GPO Box 4                                         
+ Canberra, A.C.T.                                  
+ Australia    2601                                 
+
+ Mander, Lewis N.
+ Research School of Chemistry                      
+ Australian National University                    
+ GPO Box 4                                         
+ Canberra, A.C.T.                                  
+ Australia    2601                                 
+
+ Patrick, Graham L.
+ Research School of Chemistry                      
+ Australian National University                    
+ GPO Box 4                                         
+ Canberra, A.C.T.                                  
+ Australia    2601                                 
+
+ Willis, Anthony C.
+ Research School of Chemistry                      
+ Australian National University                    
+ GPO Box 4                                         
+ Canberra, A.C.T.                                  
+ Australia    2601                                 
+ ciftbx warning: test.cif data_mumbo_jumbo line:      5
+  Data name _audit_creation_date not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:      5
+  No category defined for _audit_creation_date
+ ciftbx warning: test.cif data_mumbo_jumbo line:      6
+  Data name _audit_creation_method not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:      6
+  No category defined for _audit_creation_method
+ ciftbx warning: test.cif data_mumbo_jumbo line:      7
+  Data name _audit_update_record not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:      7
+  No category defined for _audit_update_record
+ ciftbx warning: test.cif data_mumbo_jumbo line:     12
+  Data name _dummy_test not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     12
+  No category defined for _dummy_test
+ ciftbx warning: test.cif data_mumbo_jumbo line:     14
+  Data name _chemical_name_systematic not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     14
+  No category defined for _chemical_name_systematic
+ ciftbx warning: test.cif data_mumbo_jumbo line:     16
+  Data name _chemical_formula_moiety not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     16
+  No category defined for _chemical_formula_moiety
+ ciftbx warning: test.cif data_mumbo_jumbo line:     17
+  Data name _chemical_formula_sum not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     17
+  No category defined for _chemical_formula_sum
+ ciftbx warning: test.cif data_mumbo_jumbo line:     18
+  Data name _chemical_formula_weight not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     18
+  No category defined for _chemical_formula_weight
+ ciftbx warning: test.cif data_mumbo_jumbo line:     19
+  Data name _chemical_melting_point not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     19
+  No category defined for _chemical_melting_point
+ ciftbx warning: test.cif data_mumbo_jumbo line:     22
+  Data name _cell_length_b not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     22
+  No category defined for _cell_length_b
+ ciftbx warning: test.cif data_mumbo_jumbo line:     23
+  Data name _cell_length_c not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     23
+  No category defined for _cell_length_c
+ ciftbx warning: test.cif data_mumbo_jumbo line:     24
+  Data name _cell_angle_alpha not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     24
+  No category defined for _cell_angle_alpha
+ ciftbx warning: test.cif data_mumbo_jumbo line:     25
+  Data name _cell_angle_beta not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     25
+  No category defined for _cell_angle_beta
+ ciftbx warning: test.cif data_mumbo_jumbo line:     26
+  Data name _cell_angle_gamma not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     26
+  No category defined for _cell_angle_gamma
+ ciftbx warning: test.cif data_mumbo_jumbo line:     27
+  Data name _cell_volume not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     27
+  No category defined for _cell_volume
+ ciftbx warning: test.cif data_mumbo_jumbo line:     28
+  Data name _cell_formula_units_z not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     28
+  No category defined for _cell_formula_units_z
+ ciftbx warning: test.cif data_mumbo_jumbo line:     29
+  Data name _cell_measurement_temperature not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     29
+  No category defined for _cell_measurement_temperature
+ ciftbx warning: test.cif data_mumbo_jumbo line:     30
+  Data name _cell_measurement_reflns_used not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     30
+  No category defined for _cell_measurement_reflns_used
+ ciftbx warning: test.cif data_mumbo_jumbo line:     31
+  Data name _cell_measurement_theta_min not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     31
+  No category defined for _cell_measurement_theta_min
+ ciftbx warning: test.cif data_mumbo_jumbo line:     32
+  Data name _cell_measurement_theta_max not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     32
+  No category defined for _cell_measurement_theta_max
+ ciftbx warning: test.cif data_mumbo_jumbo line:     34
+  Data name _symmetry_cell_setting not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     34
+  No category defined for _symmetry_cell_setting
+ ciftbx warning: test.cif data_mumbo_jumbo line:     35
+  Data name _symmetry_space_group_name_h-m not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     35
+  No category defined for _symmetry_space_group_name_h-m
+ ciftbx warning: test.cif data_mumbo_jumbo line:     36
+  Data name _symmetry_space_group_name_hall not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     36
+  No category defined for _symmetry_space_group_name_hall
+ ciftbx warning: test.cif data_mumbo_jumbo line:     39
+  Data name _atom_type_symbol not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     39
+  No category defined for _atom_type_symbol
+ ciftbx warning: test.cif data_mumbo_jumbo line:     40
+  Data name _atom_type_oxidation_number not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     40
+  No category defined for _atom_type_oxidation_number
+ ciftbx warning: test.cif data_mumbo_jumbo line:     41
+  Data name _atom_type_number_in_cell not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     41
+  No category defined for _atom_type_number_in_cell
+ ciftbx warning: test.cif data_mumbo_jumbo line:     42
+  Data name _atom_type_scat_dispersion_real not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     42
+  No category defined for _atom_type_scat_dispersion_real
+ ciftbx warning: test.cif data_mumbo_jumbo line:     43
+  Data name _atom_type_scat_dispersion_imag not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     43
+  No category defined for _atom_type_scat_dispersion_imag
+ ciftbx warning: test.cif data_mumbo_jumbo line:     44
+  Data name _atom_type_scat_source not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     44
+  No category defined for _atom_type_scat_source
+ ciftbx warning: test.cif data_mumbo_jumbo line:     52
+  Data name _atom_site_label not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     52
+  No category defined for _atom_site_label
+ ciftbx warning: test.cif data_mumbo_jumbo line:     53
+  Data name _atom_site_fract_x not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     53
+  No category defined for _atom_site_fract_x
+ ciftbx warning: test.cif data_mumbo_jumbo line:     54
+  Data name _atom_site_fract_y not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     54
+  No category defined for _atom_site_fract_y
+ ciftbx warning: test.cif data_mumbo_jumbo line:     55
+  Data name _atom_site_fract_z not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     55
+  No category defined for _atom_site_fract_z
+ ciftbx warning: test.cif data_mumbo_jumbo line:     56
+  Data name _atom_site_u_iso_or_equiv not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     56
+  No category defined for _atom_site_u_iso_or_equiv
+ ciftbx warning: test.cif data_mumbo_jumbo line:     57
+  Data name _atom_site_thermal_displace_type not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     57
+  No category defined for _atom_site_thermal_displace_type
+ ciftbx warning: test.cif data_mumbo_jumbo line:     58
+  Data name _atom_site_calc_flag not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     58
+  No category defined for _atom_site_calc_flag
+ ciftbx warning: test.cif data_mumbo_jumbo line:     59
+  Data name _atom_site_calc_attached_atom not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     59
+  No category defined for _atom_site_calc_attached_atom
+ ciftbx warning: test.cif data_mumbo_jumbo line:     60
+  Data name _atom_site_type_symbol not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     60
+  No category defined for _atom_site_type_symbol
+ ciftbx warning: test.cif data_mumbo_jumbo line:     66
+  Data name _atom_site_aniso_label not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     66
+  No category defined for _atom_site_aniso_label
+ ciftbx warning: test.cif data_mumbo_jumbo line:     67
+  Data name _atom_site_aniso_u_11 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     67
+  No category defined for _atom_site_aniso_u_11
+ ciftbx warning: test.cif data_mumbo_jumbo line:     68
+  Data name _atom_site_aniso_u_22 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     68
+  No category defined for _atom_site_aniso_u_22
+ ciftbx warning: test.cif data_mumbo_jumbo line:     69
+  Data name _atom_site_aniso_u_33 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     69
+  No category defined for _atom_site_aniso_u_33
+ ciftbx warning: test.cif data_mumbo_jumbo line:     70
+  Data name _atom_site_aniso_u_12 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     70
+  No category defined for _atom_site_aniso_u_12
+ ciftbx warning: test.cif data_mumbo_jumbo line:     71
+  Data name _atom_site_aniso_u_13 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     71
+  No category defined for _atom_site_aniso_u_13
+ ciftbx warning: test.cif data_mumbo_jumbo line:     72
+  Data name _atom_site_aniso_u_23 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     72
+  No category defined for _atom_site_aniso_u_23
+ ciftbx warning: test.cif data_mumbo_jumbo line:     73
+  Data name _atom_site_aniso_type_symbol not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     73
+  No category defined for _atom_site_aniso_type_symbol
+ ciftbx warning: test.cif data_mumbo_jumbo line:     77
+  Data name _blat1 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     77
+  No category defined for _blat1
+ ciftbx warning: test.cif data_mumbo_jumbo line:     77
+  Data name _blat2 not in dictionary!
+ ciftbx warning: test.cif data_mumbo_jumbo line:     77
+  No category defined for _blat2
+
+
+
+ Access items in data block  mumbo_jumbo                                                                
+
+
+ Atom coordinates and Uij
+
+ s     0.2020  0.7980  0.9167  0.0350  0.0250  0.0250  0.0130  0.0000  0.0000
+ o     0.4980  0.4980  0.6667
+ c1    0.4880  0.0960  0.0380
+
+                                   null    1    3
+
+                                   null    1    3
+
+                                   null    1    3
+
+                                   null    1    3
+
+                                   null    1    3
+
+                                   null    1    3
+
+_dummy_test                        char   17    0
+will it work here
+
+_audit_creation_date               char    8    0
+91-03-20
+
+_audit_creation_method             char   34    0
+from_xtal_archive_file_using_CIFIO
+
+_audit_update_record               text   56    0
+  91-04-09           text and data added by Tony Willis.                        
+  91-04-15           rec'd by co-editor with diagram as manuscript HL7.         
+  91-04-17           adjustments based on first referees report.                
+  91-04-18           adjustments based on second referee's report.              
+
+_chemical_name_systematic          char   65    0
+trans-3-Benzoyl-2-(tert-butyl)-4-(iso-butyl)-1,3-oxazolidin-5-one
+
+_chemical_formula_moiety           char   12    0
+C18 H25 N O3
+
+_chemical_formula_sum              char   12    0
+C18 H25 N O3
+
+_chemical_formula_weight           numb    6    0
+  303.4000    0.0000
+
+_chemical_melting_point            null    1    0
+
+_cell_length_a                     null    1    0
+
+_cell_length_b                     numb    9    0
+   14.9560    0.0010
+
+_cell_length_c                     numb    9    0
+   19.7370    0.0030
+
+_cell_angle_alpha                  numb    2    0
+   90.0000    0.0000
+
+_cell_angle_beta                   numb    2    0
+   90.0000    0.0000
+
+_cell_angle_gamma                  numb    2    0
+   90.0000    0.0000
+
+_cell_volume                       numb    9    0
+ 1759.0000    0.3000
+
+_cell_formula_units_Z              numb    1    0
+    4.0000    0.0000
+
+_cell_measurement_temperature      numb    3    0
+  293.0000    0.0000
+
+_cell_measurement_reflns_used      numb    2    0
+   25.0000    0.0000
+
+_cell_measurement_theta_min        numb    2    0
+   25.0000    0.0000
+
+_cell_measurement_theta_max        numb    2    0
+   31.0000    0.0000
+
+                                   null    1    0
+
+_blat2                             char    1    4
+2
+
+_blat1                             char    1    4
+1
+
+_blat2                             char    1    4
+4
+
+_blat1                             char    1    4
+3
+
+_blat2                             char    1    4
+6
+
+_blat1                             char    1    4
+5
+
+_blat2                             char    1    4
+b
+
+_blat1                             char    1    4
+a
+
+_blat2                             char    1    4
+d
+
+_blat1                             char    1    4
+c
+
+                                   null    1    4
+
+_symmetry_cell_setting             char   12    0
+orthorhombic
+
+_symmetry_space_group_name_H-M     char   10    0
+P 21 21 21
+
+_symmetry_space_group_name_Hall    char    9    0
+P_2ac_2ab
+
+                                   null    1    0
+
+_atom_type_symbol                  char    1    1
+S
+
+_atom_type_oxidation_number        numb    1    1
+    0.0000    0.0000
+
+_atom_type_number_in_cell          numb    1    1
+    6.0000    0.0000
+
+_atom_type_scat_dispersion_real    numb    7    1
+    0.3190    0.0000
+
+_atom_type_scat_dispersion_imag    numb    4    1
+    0.5570    0.0000
+
+_atom_type_scat_source             char   32    1
+Int_Tab_Vol_III_p202_Tab._3.3.1a
+
+_atom_type_symbol                  char    1    1
+O
+
+_atom_type_oxidation_number        numb    1    1
+    0.0000    0.0000
+
+_atom_type_number_in_cell          numb    1    1
+    6.0000    0.0000
+
+_atom_type_number_in_cell          numb    2    1
+   20.0000    0.0000
+
+_atom_type_oxidation_number        numb    1    1
+    0.0000    0.0000
+
+_atom_type_scat_dispersion_real    numb    4    1
+    0.0170    0.0000
+
+                                   null    1    1
+
+                                   null    1    1
+
+_atom_site_label                   char    1    2
+s
+
+_atom_site_fract_x                 numb    6    2
+    0.2020    0.0000
+
+_atom_site_fract_y                 numb    6    2
+    0.7980    0.0000
+
+_atom_site_fract_z                 numb    6    2
+    0.9167    0.0000
+
+_atom_site_U_iso_or_equiv          numb    7    2
+    0.0300    0.0030
+
+_atom_site_thermal_displace_type   char   15    2
+anisotropic Uij
+
+_atom_site_calc_flag               null    1    2
+
+_atom_site_calc_attached_atom      null    1    2
+
+_atom_site_type_symbol             char    1    2
+s
+
+_atom_site_type_symbol             char    1    2
+o
+
+_atom_site_type_symbol             char    1    2
+c
+
+_atom_site_type_symbol             char    1    2
+s
+
+_rubish_here                       null    1    2
+
+_atom_site_type_symbol             char    1    2
+o
+
+_atom_site_type_symbol             char    1    2
+c
+
+_atom_site_type_symbol             char    1    2
+s
+
+_symmetry_space_group_name_Hall    char    9    0
+P_2ac_2ab
+
+_atom_site_type_symbol             char    1    2
+s
+
+_atom_site_type_symbol             char    1    2
+o
+
+_atom_site_type_symbol             char    1    2
+c
+
+_atom_site_type_symbol             char    1    2
+s
+
+                                   null    1    2
+
+_atom_site_aniso_label             char    1    3
+s
+
+_atom_site_aniso_U_11              numb    7    3
+    0.0350    0.0040
+
+_atom_site_aniso_U_22              numb    7    3
+    0.0250    0.0030
+
+_atom_site_aniso_U_33              numb    7    3
+    0.0250    0.0030
+
+_atom_site_aniso_U_12              numb    7    3
+    0.0130    0.0010
+
+_atom_site_aniso_U_13              numb    6    3
+    0.0000    0.0000
+
+_atom_site_aniso_U_23              numb    6    3
+    0.0000    0.0000
+
+_atom_site_aniso_type_symbol       char    1    3
+s
+
+_atom_site_aniso_U_12              numb    7    3
+    0.0130    0.0010
+
+_atom_site_aniso_U_12              numb    7    3
+    0.0130    0.0010
+
+_atom_site_aniso_U_12              numb    7    3
+    0.0130    0.0010
+
+                                   null    1    3
+
+                                   null    1    3
+
+                                   null    1    3
+
+                                   null    1    3
+
+                                   null    1    3

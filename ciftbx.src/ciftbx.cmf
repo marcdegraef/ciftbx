@@ -1,0 +1,118 @@
+C
+C >>>>>> Function declararations 'ciftbx.cmf'
+C
+C
+C        These external declarations are needed to complete
+C        the user definitions in ciftbx.cmn
+C           
+C
+C                                 Logical function init_
+         logical   init_
+C                                 Logical function dict_
+         logical   dict_
+C                                 Logical function ocif_
+         logical   ocif_
+C                                 Logical function data_
+         logical   data_
+C                                 Logical function dtype_
+         logical   dtype_
+C                                 Logical function test_
+         logical   test_
+C                                 Logical function bkmrk_
+         logical   bkmrk_
+C                                 Logical function find_
+         logical   find_
+C                                 Logical function name_
+         logical   name_
+C                                 Logical function numb_
+         logical   numb_
+C                                 Logical function numd_
+         logical   numd_
+C                                 Logical function char_
+         logical   char_
+C                                 Logical function charnp_
+         logical   charnp_
+C                                 Logical function cmnt_
+         logical   cmnt_
+C                                 Logical function cotd_
+         logical   cotd_
+C                                 Logical function cotdb_
+         logical   cotdb_
+C                                 Logical function delim_
+         logical   delim_
+C                                 Logical function pfile_
+         logical   pfile_
+C                                 Logical function pdata_
+         logical   pdata_
+C                                 Logical function pchar_
+         logical   pchar_
+C                                 Logical function pcmnt_
+         logical   pcmnt_
+C                                 Logical function pdelim_
+         logical   pdelim_
+C                                 Logical function pnumb_
+         logical   pnumb_
+C                                 Logical function pnumd_
+         logical   pnumd_
+C                                 Logical function ptext_
+         logical   ptext_
+C                                 Logical function ploop_
+         logical   ploop_
+C                                 Logical function prefx_
+         logical   prefx_
+C
+C                                 logical function init_
+         external   init_
+C                                 logical function dict_
+         external   dict_
+C                                 logical function ocif_
+         external   ocif_
+C                                 logical function data_
+         external   data_
+C                                 Logical function dtype_
+         external   dtype_
+C                                 logical function delim_
+         external   delim_
+C                                 logical function test_
+         external   test_
+C                                 logical function bkmrk_
+         external   bkmrk_
+C                                 logical function find_
+         external   find_
+C                                 logical function name_
+         external   name_
+C                                 logical function numb_
+         external   numb_
+C                                 logical function numd_
+         external   numd_
+C                                 logical function char_
+         external   char_
+C                                 logical function charnp_
+         external   charnp_
+C                                 logical function cmnt_
+         external   cmnt_
+C                                 logical function cotd_
+         external   cotd_
+C                                 logical function cotdb_
+         external   cotdb_
+C                                 logical function pfile_
+         external   pfile_
+C                                 logical function pdata_
+         external   pdata_
+C                                 logical function pchar_
+         external   pchar_
+C                                 logical function pcmnt_
+         external   pcmnt_
+C                                 logical function pdelim_
+         external   pdelim_
+C                                 logical function pnumb_
+         external   pnumb_
+C                                 logical function pnumd_
+         external   pnumd_
+C                                 logical function ptext_
+         external   ptext_
+C                                 logical function ploop_
+         external   ploop_
+C                                 logical function prefx_
+         external   prefx_
+
