@@ -1,0 +1,42 @@
+#
+#  Modified Makefile2 for building the CIFextract program
+#  Based on original Makefile described below
+#  This Makefile2 only builds the CIFextract program and the ciftbx object files needed for linking
+#  July 20, 2018, Marc De Graef
+#
+#  Makefile file for ciftbx 4.1.0
+#  Version of 30 November 2009
+#  H. J. Bernstein, Bernstein+Sons
+#
+#  Define the shell to be used by Makefile2
+#
+SHELL		= /bin/sh
+#
+# provide flags for fortran compilations here
+FFLAGS		= -g -O2 -fbounds-check -Wall -Wno-unused-variable  -Wuninitialized
+#
+# provide the name for the command timer here
+TIMER		= time
+
+all:		ciftbx.o hash_funcs.o CIFextract
+
+ciftbx.o:	ciftbx.f ciftbx.sys ciftbx.cmv clearfp.f
+		$(FC) $(FFLAGS) -c ciftbx.f
+
+hash_funcs.o:	hash_funcs.f
+		$(FC) $(FFLAGS) -c hash_funcs.f
+
+CIFextract.o:	CIFextract.f90 ciftbx90.cmv ciftbx90.cmf hash_funcs.f clearfp.f
+		$(FC) $(FFLAGS) -c CIFextract.f90
+
+CIFextract:		CIFextract.o
+		$(FC) $(FFLAGS) CIFextract.o ciftbx.o hash_funcs.o -o CIFextract
+
+clean:		
+		-rm -f *.o
+		-rm -f CIFextract
+		-rm -f *.lst
+		-rm -f *.new
+		-rm -f *.diff
+		-rm -f *.BAK
+		-rm -f *.bak
